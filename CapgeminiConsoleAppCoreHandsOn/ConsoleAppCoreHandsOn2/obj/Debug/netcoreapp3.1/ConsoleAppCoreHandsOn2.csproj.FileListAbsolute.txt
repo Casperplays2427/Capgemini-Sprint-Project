@@ -1,0 +1,13 @@
+D:\Capg-Dot net\CapgeminiConsoleAppCoreHandsOn\ConsoleAppCoreHandsOn2\bin\Debug\netcoreapp3.1\ConsoleAppCoreHandsOn2.exe
+D:\Capg-Dot net\CapgeminiConsoleAppCoreHandsOn\ConsoleAppCoreHandsOn2\bin\Debug\netcoreapp3.1\ConsoleAppCoreHandsOn2.deps.json
+D:\Capg-Dot net\CapgeminiConsoleAppCoreHandsOn\ConsoleAppCoreHandsOn2\bin\Debug\netcoreapp3.1\ConsoleAppCoreHandsOn2.runtimeconfig.json
+D:\Capg-Dot net\CapgeminiConsoleAppCoreHandsOn\ConsoleAppCoreHandsOn2\bin\Debug\netcoreapp3.1\ConsoleAppCoreHandsOn2.runtimeconfig.dev.json
+D:\Capg-Dot net\CapgeminiConsoleAppCoreHandsOn\ConsoleAppCoreHandsOn2\bin\Debug\netcoreapp3.1\ConsoleAppCoreHandsOn2.dll
+D:\Capg-Dot net\CapgeminiConsoleAppCoreHandsOn\ConsoleAppCoreHandsOn2\bin\Debug\netcoreapp3.1\ConsoleAppCoreHandsOn2.pdb
+D:\Capg-Dot net\CapgeminiConsoleAppCoreHandsOn\ConsoleAppCoreHandsOn2\obj\Debug\netcoreapp3.1\ConsoleAppCoreHandsOn2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capg-Dot net\CapgeminiConsoleAppCoreHandsOn\ConsoleAppCoreHandsOn2\obj\Debug\netcoreapp3.1\ConsoleAppCoreHandsOn2.AssemblyInfoInputs.cache
+D:\Capg-Dot net\CapgeminiConsoleAppCoreHandsOn\ConsoleAppCoreHandsOn2\obj\Debug\netcoreapp3.1\ConsoleAppCoreHandsOn2.AssemblyInfo.cs
+D:\Capg-Dot net\CapgeminiConsoleAppCoreHandsOn\ConsoleAppCoreHandsOn2\obj\Debug\netcoreapp3.1\ConsoleAppCoreHandsOn2.csproj.CoreCompileInputs.cache
+D:\Capg-Dot net\CapgeminiConsoleAppCoreHandsOn\ConsoleAppCoreHandsOn2\obj\Debug\netcoreapp3.1\ConsoleAppCoreHandsOn2.dll
+D:\Capg-Dot net\CapgeminiConsoleAppCoreHandsOn\ConsoleAppCoreHandsOn2\obj\Debug\netcoreapp3.1\ConsoleAppCoreHandsOn2.pdb
+D:\Capg-Dot net\CapgeminiConsoleAppCoreHandsOn\ConsoleAppCoreHandsOn2\obj\Debug\netcoreapp3.1\ConsoleAppCoreHandsOn2.genruntimeconfig.cache
